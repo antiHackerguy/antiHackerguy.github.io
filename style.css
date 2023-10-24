@@ -1,0 +1,23 @@
+body {
+background-color: rgb(136, 162, 136);
+}
+#garso {
+    color: aqua;
+    text-align: center;  
+    text-shadow: 3px 1px 5px darkolivegreen;
+    text-decoration: none;
+    font-size: 250%;
+
+}
+.cilveks {
+    color: rgb(0, 156, 156);
+    text-align: center;
+    text-shadow: 3px 1px 5px darkolivegreen;
+    text-decoration: none;
+    font-size: 250%;
+
+}
+.video {
+    color: black;
+    font-size: 250%;
+}
